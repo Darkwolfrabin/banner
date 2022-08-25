@@ -1,4 +1,4 @@
-# banner make your on banner and login pasge on Termux 
+#    make your on banner and login pasge on Termux 
 📌git clone https://github.com/Darkwolfrabin/banner.git
 ls
 
